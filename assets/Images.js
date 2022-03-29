@@ -1,0 +1,18 @@
+export default {
+bugger:require("./bugger.png"),
+chinesefood:require("./chinesefood.png"),
+chickenchips:require("./chickenchips.png"),
+snack:require("./snack.png"),
+snack:require("./snack.png"),
+pandoyam:require("./pandoyam.png"),
+pizza:require("./pizza.png"),
+shawama:require("./shawama.png"),
+soup:require("./soup.png"),
+spaghetti:require("./spaghetti.png"),
+softdrinks:require("./softdrinks.jpg"),
+bread:require("./bread.jpg"),
+coffee:require("./coffee.jpg"),
+shopping:require("./shopping.png"),
+dessert:require("./dessert.jpg"),
+fastfood:require("./fastfood.jpg"),
+}
